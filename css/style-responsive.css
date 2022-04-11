@@ -160,11 +160,11 @@
   }
 
   .portfolio-grid{
-    width:650px;
+    width:630px;
   }
 
   .grid-hover, li.grid-item, li.grid-item img{
-    width:520px;
+    width:282px;
   }
 
 }
